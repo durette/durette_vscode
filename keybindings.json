@@ -6,6 +6,11 @@
       "when": "editorTextFocus"
    },
    {
+      "key": "ctrl+shift+d",
+      "command": "editor.action.copyLinesDownAction",
+      "when": "editorTextFocus"
+   }
+   {
       "key": "alt+a",
       "command": "-yo1dog.cursor-align.alignCursors",
       "when": "editorTextFocus"
