@@ -39,4 +39,5 @@
       {"column": 80,   "color": "#FFFFFF07"}, // standard
       {"column": 2500, "color": "#ff0000ff"} // SQL*Plus command limit
    ],
+   "workbench.startupEditor": "none"
 }
